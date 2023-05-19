@@ -1,0 +1,2 @@
+<h1>Hello from index</h1>
+<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum, sed aspernatur quis magni asperiores placeat accusamus similique! Autem amet rem veniam unde modi quasi esse consectetur dignissimos, vitae maxime enim!</p>
